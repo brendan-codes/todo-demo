@@ -27,6 +27,7 @@ function App() {
     }
     ])
 
+    // this is a change for the git demo
 
   // useEffect when passed an anonymous function will
   // run once the page is loaded. use it to call an
